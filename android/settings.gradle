@@ -1,0 +1,3 @@
+rootProject.name = 'ipay88reactnative'
+
+include ':app'
